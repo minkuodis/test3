@@ -4,6 +4,7 @@
 
 - [ ] Feature 1
 - [ ] Feature 2
+- [ ] Feature 34
 - [ ] Basic infrastructure setup
 
 ## Phase 2: Beta Release
